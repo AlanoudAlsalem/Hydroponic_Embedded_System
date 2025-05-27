@@ -8,7 +8,7 @@ A fully automated miniature micro-greens hydroponic greenhouse environment with 
 </div>
 
 ## Final Result
-| <img src="https://github.com/user-attachments/assets/bb60c1d8-d655-4d21-8515-5f9738e1a0f1" width="200" height="220"> | <img src="https://github.com/user-attachments/assets/e5d765a7-bee7-4c02-a20f-624fe94de983" width="300" height="200"> | <img src="https://github.com/user-attachments/assets/128544d7-c90b-4a3f-84ed-0702945e7489" width="200" height="220"> |
+| <img src="https://github.com/user-attachments/assets/bb60c1d8-d655-4d21-8515-5f9738e1a0f1" width="250" height="220"> | <img src="https://github.com/user-attachments/assets/e5d765a7-bee7-4c02-a20f-624fe94de983" width="250" height="200"> | <img src="https://github.com/user-attachments/assets/128544d7-c90b-4a3f-84ed-0702945e7489" width="250" height="220"> |
 |:----------------------:|:----------------------:|:----------------------:|
 </br>
 

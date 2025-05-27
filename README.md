@@ -19,7 +19,7 @@ A fully automated miniature micro-greens hydroponic greenhouse environment with 
 
 ## Flow Chart
 <div align = "center">
-<img width="800" alt="Flow Chart" src="https://github.com/user-attachments/assets/9fc09db9-724e-494b-a060-027a5d83bfcd">
+<img width="500" alt="Flow Chart" src="https://github.com/user-attachments/assets/9fc09db9-724e-494b-a060-027a5d83bfcd">
 </div>
 
 ## Check out our YouTube video demonstration!

@@ -24,5 +24,5 @@ A fully automated miniature micro-greens hydroponic greenhouse environment with 
 
 ## Check out our YouTube video demonstration!
 <!-- BEGIN YOUTUBE-CARD -->
-[![Automated Micrgreens Hydroponic Greenhouse](https://ytcards.demolab.com/?id=LiDkdGWbdg0&title=Desmos:+A+Mathematics+IA+Tutorial&lang=en&background_color=%f6f6f6f6&title_color=%2e2e2e2e&stats_color=%2e2e2e2e&max_title_lines=1&width=300&border_radius=5&duration=294 "Desmos: A Mathematics IA Tutorial")](https://youtu.be/LiDkdGWbdg0?si=xtq_g-NO9iX699A2)
+[![Automated Micrgreens Hydroponic Greenhouse](https://youtu.be/Imtub8y7cg0)
 <!-- END YOUTUBE-CARD -->

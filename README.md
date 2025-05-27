@@ -7,10 +7,8 @@ A fully automated miniature micro-greens hydroponic greenhouse environment with 
 <img width="800" alt="CAD Structure" src="https://github.com/user-attachments/assets/6aa0b36b-8620-411b-bc5e-78b6649bb508">
 </div>
 
-![Greenhouse v5]()
-
 ## Final Result
-| <img src="https://github.com/user-attachments/assets/0f2074b9-965b-466a-b7b3-1511709ded72" width="220" height="220"> | <img src="https://github.com/user-attachments/assets/ce03a5b5-df79-4e3a-9612-69d5de6603da" width="300" height="250"> | <img src="https://github.com/user-attachments/assets/e898811a-2704-4362-a1f4-2640e7a2e37f" width="220" height="220"> |
+| <img src="https://github.com/user-attachments/assets/bb60c1d8-d655-4d21-8515-5f9738e1a0f1" width="220" height="220"> | <img src="https://github.com/user-attachments/assets/e5d765a7-bee7-4c02-a20f-624fe94de983" width="300" height="250"> | <img src="https://github.com/user-attachments/assets/128544d7-c90b-4a3f-84ed-0702945e7489" width="220" height="220"> |
 |:----------------------:|:----------------------:|:----------------------:|
 | Modeling a Pringle in 3 Dimensions | Modeling and finding the volume of a Kinder Egg | Modeling a free-kick in 3 Dimensions |
 </br>

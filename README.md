@@ -13,10 +13,14 @@ A fully automated miniature micro-greens hydroponic greenhouse environment with 
 </br>
 
 ## Block Diagram
-![WhatsApp Image 2025-05-27 at 20 53 32](https://github.com/user-attachments/assets/3702be7d-772e-47d2-9c5a-1f10fe4aeb4f)
+<div align = "center">
+<img width="800" alt="Block Diagram" src="https://github.com/user-attachments/assets/3702be7d-772e-47d2-9c5a-1f10fe4aeb4f">
+</div>
 
 ## Flow Chart
-![7F5AE14F-FDBF-43D9-B6CA-EC78F832E36B](https://github.com/user-attachments/assets/9fc09db9-724e-494b-a060-027a5d83bfcd)
+<div align = "center">
+<img width="800" alt="Flow Chart" src="https://github.com/user-attachments/assets/9fc09db9-724e-494b-a060-027a5d83bfcd">
+</div>
 
 ## Check out our YouTube video demonstration!
 <!-- BEGIN YOUTUBE-CARD -->
